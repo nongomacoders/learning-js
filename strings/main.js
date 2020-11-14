@@ -29,4 +29,6 @@ let i = fullname.indexOf("b");  // i= 0
 i = fullname.indexOf(" ");  //i=7
 fn = fullname.substring(0, 7);   //fn = bongiwe
 sn = fullanme.substring(8);         //sn=ntshangase
-sn=fullname.substring()
+sn = fullname.substring()
+
+
